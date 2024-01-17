@@ -1,0 +1,9 @@
+.all{
+    display: flex;
+    flex-direction: column;
+}
+
+.fir{
+    display: flex;
+    justify-content: center;
+}
